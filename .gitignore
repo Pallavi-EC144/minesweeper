@@ -1,0 +1,4 @@
+# Ignore build outputs and OS files
+backend/minesweeper
+*.exe
+.DS_Store
